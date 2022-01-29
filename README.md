@@ -1,2 +1,2 @@
 # practiceRepo
-Software Engineering course lab
+Software Engineering c lab
